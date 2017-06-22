@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtsyListIt", "EtsyListIt\EtsyListIt.csproj", "{856F00E1-FD7F-439B-AFAC-5F85619B188F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IllustratorService", "IllustratorService\IllustratorService.csproj", "{9044842A-C6BD-41E8-A62B-1419439A4A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtsyService", "EtsyService\EtsyService.csproj", "{3AC82CB2-34F2-48CA-AFF8-6EE37EBD4C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{856F00E1-FD7F-439B-AFAC-5F85619B188F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{856F00E1-FD7F-439B-AFAC-5F85619B188F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{856F00E1-FD7F-439B-AFAC-5F85619B188F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9044842A-C6BD-41E8-A62B-1419439A4A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9044842A-C6BD-41E8-A62B-1419439A4A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9044842A-C6BD-41E8-A62B-1419439A4A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9044842A-C6BD-41E8-A62B-1419439A4A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC82CB2-34F2-48CA-AFF8-6EE37EBD4C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC82CB2-34F2-48CA-AFF8-6EE37EBD4C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC82CB2-34F2-48CA-AFF8-6EE37EBD4C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC82CB2-34F2-48CA-AFF8-6EE37EBD4C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
